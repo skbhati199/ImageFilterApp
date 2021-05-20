@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageFilterApp</string>
+    <string name="error_video_limit">Error Vide Limit</string>
+</resources>

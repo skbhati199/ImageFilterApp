@@ -1,0 +1,1 @@
+/Users/sonukumar/AndroidStudioProjects/ImageFilterApp/app/src/main/cpp/CMakeLists.txt

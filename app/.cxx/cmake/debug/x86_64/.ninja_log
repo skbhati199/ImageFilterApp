@@ -1,0 +1,6 @@
+# ninja log v5
+0	551	1621509437	CMakeFiles/native-lib.dir/native-lib.cpp.o	63b56ee2eaa7b39
+552	682	1621509437	/Users/sonukumar/AndroidStudioProjects/ImageFilterApp/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	387b3a0e0cba3f2
+1	10	0	clean	d71ea43b992372ac
+2	534	1621514708	CMakeFiles/native-lib.dir/native-lib.cpp.o	63b56ee2eaa7b39
+534	661	1621514708	/Users/sonukumar/AndroidStudioProjects/ImageFilterApp/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	387b3a0e0cba3f2
